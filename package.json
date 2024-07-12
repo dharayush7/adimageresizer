@@ -1,0 +1,18 @@
+{
+  "name": "adimageresizer",
+  "productName": "ADImageResizer",
+  "version": "1.0.0",
+  "description": "Electron Image Resizer",
+  "main": "main.js",
+  "author": "AYUSH DHAR",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^31.2.0",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  }
+}
